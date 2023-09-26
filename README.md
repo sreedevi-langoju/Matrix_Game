@@ -2,7 +2,7 @@
 
 Welcome to the Matrix-Style Game, a fun project created using the power of Bash Shell Scripting. This project allows you to experience the iconic Matrix terminal animation right on your command line.
 
-I contributed to the development of this interactive Matrix-Style Game using Bash Shell Scripting as part of a team project.
+Collaborated with a team of 5 to create a fun and engaging terminal game that simulates the iconic Matrix digital rain effect.
 [Click here](https://docs.google.com/presentation/d/1g3Gan7oUB3WltLICa4VaT7QZt4sqFs4XnMovN9P2ino/edit#slide=id.p1) to access our presentation on Bash shell scripting.
 
 ### Getting Started
