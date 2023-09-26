@@ -1,11 +1,3 @@
-<<coments
-Project Name: Matrix bash script
-Developed By : Niaz, Sreedevi,Juan, Victoria
-Summary : This script is play Matrix game by choosing a pill. If choose  Red pill story ends there / If you choose Blue pill you see the Matrix wonderland.
-Version : 1.0
-coments
-
-
 #!/bin/bash
 
 # capturing the user name
@@ -139,4 +131,3 @@ else
 fi # end  of if user wants to play game
 
 #end of the program
-
